@@ -1,0 +1,3 @@
+@echo off
+echo Running NetVault Automated Verification Tests...
+java -cp bin com.netvault.NetVaultTestRunner
